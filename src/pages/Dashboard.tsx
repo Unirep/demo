@@ -289,7 +289,7 @@ export default observer(() => {
                                     } catch (error) {
                                         console.log(error)
                                         alert(
-                                            'Invalid Proof. You are attempting to prove more data than you have received. Check your provable data, transition if necessary, and try again',
+                                            `Error: ${error}`,
                                         )
                                     }
                                 }}

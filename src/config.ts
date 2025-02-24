@@ -1,1 +1,1 @@
-export const KEY_SERVER = 'https://demo.vivianjeng.xyz/'
+export const KEY_SERVER = 'https://github.com/Unirep/demo/raw/refs/heads/main/public/'
